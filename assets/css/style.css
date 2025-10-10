@@ -516,11 +516,11 @@ img {
 }
 
 .skills__html {
-  width: 90%;
+  width: 80%;
 }
 
 .skills__css {
-  width: 70%;
+  width: 50%;
 }
 
 .skills__js {
@@ -528,11 +528,11 @@ img {
 }
 
 .skills__react {
-  width: 40%;
+  width: 70%;
 }
 
 .skills__php {
-  width: 90%;
+  width: 40%;
 }
 
 .skills__mysql {
@@ -548,7 +548,7 @@ img {
 }
 
 .skills__blender {
-  width: 50%;
+  width: 40%;
 }
 
 .skills__photoshop {
